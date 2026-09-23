@@ -8,6 +8,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0091-decode-ways) |
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0091-decode-ways) |
 ## Binary Search
 |  |
@@ -39,4 +41,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0300-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
