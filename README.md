@@ -12,6 +12,7 @@
 | [0062-unique-paths](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0300-longest-increasing-subsequence) |
 ## Combinatorics
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
