@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0416-partition-equal-subset-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0198-house-robber](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -63,8 +65,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/MeeT01-uni/Daa_Dynamic_Programming/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
